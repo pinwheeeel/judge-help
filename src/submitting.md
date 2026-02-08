@@ -4,7 +4,7 @@ layout: default
 images: /assets/images/submitting
 ---
 
-# Submitting to a Problem
+# Making a submission
 
 On the right-hand side of the page, you will find:
 

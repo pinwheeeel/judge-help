@@ -1,11 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: '<img src="/assets/images/logo_transparent.png" style="max-width: 40px; margin: 10px;"><span>MCPT Help</span>'
+description: How to use MCPT online judge
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://pinwheeeel.github.io/judge-help/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  MCPT Site: https://mcpt.ca/
 
 permalink: /:basename
 source: src
+
+favicon_ico: "/assets/images/favicon.ico"
+
+color_scheme: mcpt

@@ -4,7 +4,7 @@ layout: default
 images: /assets/images/grading
 ---
 
-# header
+# Submission Grading
 
 After you have submitted your code, you will be brought to a page to show how your code performed. 
 
