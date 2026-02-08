@@ -1,6 +1,7 @@
 ---
 title: Submission Grading
 layout: default
+nav_order: 4
 images: /assets/images/grading
 ---
 
@@ -10,7 +11,7 @@ After you have submitted your code, you will be brought to a page to show how yo
 
 ![Page containing the grader's results of submitted code]({{page.images}}/image1.png)
 
-To judge if your code is right, it will be tested against many test cases, and for the given input, it will check if it matches with the expected output. __**You do not know what the test cases are**__, but you will know how your code did on them. The test cases will either be individual or in batches, with batches typically used for grouping cases for subtasks. If you fail even one test case in a batch, the rest of the batch will not be tested and you will not get the marks for that batch.
+To judge if your code is right, it will be tested against many test cases, and for the given input, it will check if it matches with the expected output. **<u>You do not know what the test cases are</u>**, but you will know how your code did on them. The test cases will either be individual or in batches, with batches typically used for grouping cases for subtasks. If you fail even one test case in a batch, the rest of the batch will not be tested and you will not get the marks for that batch.
 
 ![Page containing the grader's results with labels]({{page.images}}/image2.png)
 

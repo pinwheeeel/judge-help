@@ -1,6 +1,7 @@
 ---
 title: Problem Submission
 layout: default
+nav_order: 3
 images: /assets/images/submitting
 ---
 
@@ -31,7 +32,10 @@ Once you are done entering your code, you can press the submit button on the bot
 
 <hr>
 
-You may view other submissions by other users by pressing **All submissions** or have a sorted list of the best submission of each user by pressing **Best submissions**. You will only see general submission information such as judge verdict or code execution time/memory, but __**you will not be able to view any submission code UNLESS you have fully solved the problem AND are not within a contest**__. You may however view any of your previous submissions with these buttons at any time.
+You may also view other submissions by other users by pressing **All submissions** or have a sorted list of the best submission of each user by pressing **Best submissions**.
+
+{: .important}
+You will only see general submission information such as judge verdict or code execution time/memory, but **<u>you will not be able to view any submission code UNLESS you have fully solved the problem AND are not within a contest</u>**. You may however view any of your previous submissions with these buttons at any time.
 
 The number of points allocated to a problem is always displayed, however they can represent different things depending if you are in a contest or not. They will say “partial” in parentheses if partial marks are available.
 
@@ -48,6 +52,9 @@ The points displayed normally outside of a contest:
 
 For the point difficulties, they can be voted on by pressing **Vote on problem points** (only visible after a user fully solves the problem for themself). They can provide a suggested point value with reasoning and see the point values suggested by other users (shown with **Voting statistics**), but ultimately only the problem setter or admins can change the point value. 
 
-The **time limit** and **memory limits** are conditions that must be met by your code across each and every test case. If your code exceeds the time or memory limit during execution, it will automatically stop and give the appropriate judge verdict. The __**online judge can handle about 10^8 operations per second**__, although some languages are inherently slower. In some cases, some languages will be listed there with distinct time/memory limits if they cannot pass the default one. Not every language is able to solve all problems on the site.
+The **time limit** and **memory limits** are conditions that must be met by your code across each and every test case. If your code exceeds the time or memory limit during execution, it will automatically stop and give the appropriate judge verdict.
+
+{: .warning}
+The online judge can handle about **<u>10^8 operations per second</u>**, although some languages are inherently slower. In some cases, some languages will be listed there with distinct time/memory limits if they cannot pass the default one. Not every language is able to solve all problems on the site.
 
 The **Problem Types** dropdown at the bottom simply lists key problem tags attached to the problem, categorizing them based on what topic(s) the solution falls under (e.g. graph theory, dynamic programming, etc). This will NOT be visible during a contest.

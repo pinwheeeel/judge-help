@@ -2,7 +2,7 @@ title: '<img src="/assets/images/logo_transparent.png" style="max-width: 40px; m
 description: How to use MCPT online judge
 theme: just-the-docs
 
-url: https://pinwheeeel.github.io/judge-help/
+url: https://pinwheeeel.github.io/judge-help
 
 aux_links:
   MCPT Site: https://mcpt.ca/
@@ -13,3 +13,19 @@ source: src
 favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: mcpt
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: yellow
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: red
