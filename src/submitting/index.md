@@ -34,12 +34,9 @@ Once you are done entering your code, you can press the submit button on the bot
 
 <hr>
 
-You may also view other submissions by other users by pressing **All submissions** or have a sorted list of the best submission of each user by pressing **Best submissions** on the top left of the screen.
+# Problem Points
 
-![Page with all the submissions to a solved problem]({{site.baseurl}}{{page.images}}/image4.png)
-
-{: .important}
-You will only see general submission information such as judge verdict or code execution time/memory, but **<u>you will not be able to view any submission code UNLESS you have fully solved the problem AND are not within a contest</u>**. You may however view any of your previous submissions with these buttons at any time.
+<hr>
 
 The number of points allocated to a problem is always displayed, however they can represent different things depending if you are in a contest or not. They will say “partial” in parentheses if partial marks are available.
 
@@ -55,6 +52,12 @@ The points displayed normally outside of a contest:
 - Represent difficulty range of problem
 
 For the point difficulties, they can be voted on by pressing **Vote on problem points** (only visible after a user fully solves the problem for themself). They can provide a suggested point value with reasoning and see the point values suggested by other users (shown with **Voting statistics**), but ultimately only the problem setter or admins can change the point value. 
+
+<hr>
+
+# Time/Memory Limits
+
+<hr>
 
 The **time limit** and **memory limits** are conditions that must be met by your code across each and every test case. If your code exceeds the time or memory limit during execution, it will automatically stop and give the appropriate judge verdict.
 
